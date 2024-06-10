@@ -14,7 +14,7 @@ const Footer = () => {
           />
         </Link>
 
-        <p>2023 EliteEvents. All Rights reserved.</p>
+        <p className="tracking-[0.1rem]">2024 EliteEvents. All Rights reserved.</p>
       </div>
     </footer>
   )
